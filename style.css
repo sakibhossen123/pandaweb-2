@@ -206,10 +206,41 @@ color:#FF9D00 ;
 .backpack-margin{
     margin-top:-200px;
 }
-/*.shoe-card-container{
-    width: 290px;
-    height: 290px;
+/*contacus section*/
+.contac-us{
+    background-color:rgb(255, 242, 241); ;
+    width: 1210px;
+    height: 450px;
+    text-align: center;
+    padding: 25px 15px;
     
+
+}
+.contac-us h2{
+    font-weight: 600px;
+    font-size: 30px;
+    color:#1F1F1F;
+
+}
+.contac-us p{
+    font-weight: 500;
+    color:#707070 ;
+}
+.contac-email-button input{
+    text-align: center;
+    border: none;
+
+    width: 500px;
+    height:45px;
+    text-align: left;
+    padding: 0 20px;
+    border-radius: 5px;
+   
+
+}
+
+
+
 
 
 
